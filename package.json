@@ -1,0 +1,22 @@
+{
+  "name": "all",
+  "version": "1.0.0",
+  "description": "EMPGrpahSQL\\",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DamayanthaPAA/EMPGraphQL.git"
+  },
+  "keywords": [
+    "EMPSQL"
+  ],
+  "author": "Anura",
+  "license": "open",
+  "bugs": {
+    "url": "https://github.com/DamayanthaPAA/EMPGraphQL/issues"
+  },
+  "homepage": "https://github.com/DamayanthaPAA/EMPGraphQL"
+}
